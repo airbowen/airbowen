@@ -11,8 +11,8 @@ If my work helps you, you can sponsor me via GitHub Sponsors or AfDian, this wil
 
 ## Quick Overview
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=airbowen&show_icons=true)
 
 ## Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=airbowen&theme=react-dark)
