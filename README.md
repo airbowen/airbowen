@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on finance banking web3 tech and AI agent 
 - 💬 you can contact me about airbowen5@gmail.com
 
-If my work helps you, you can sponsor me via GitHub Sponsors or AfDian, this will help me to continue my work.
+If my work helps you, welcome to contact me throgh my email.
 
 ## Quick Overview
 
