@@ -2,9 +2,9 @@
 
 ## Hi, I am airbowen
 
-- 🔭 I’m currently working at tencent 
-- 🌱 my previous job is at huawei wallet team
-- 👯 I’m looking to collaborate on finance banking and web3 area
+- 🔭 I’m currently working at Tencent focusing on payment platform.
+- 🌱 my previous job is at Huawei, Contributing in petal search and Huawei wallet.
+- 👯 I’m looking to collaborate on finance banking web3 tech and AI agent 
 - 💬 you can contact me about airbowen5@gmail.com
 
 If my work helps you, you can sponsor me via GitHub Sponsors or AfDian, this will help me to continue my work.
