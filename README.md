@@ -13,6 +13,5 @@ If my work helps you, you can sponsor me via GitHub Sponsors or AfDian, this wil
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=airbowen&show_icons=true)
 
-## Activity Graph
+![GitHub User's stars](https://img.shields.io/github/stars/airbowen?style=social)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=airbowen&theme=react-dark)
