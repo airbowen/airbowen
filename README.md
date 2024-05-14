@@ -11,9 +11,8 @@ If my work helps you, you can sponsor me via GitHub Sponsors or AfDian, this wil
 
 ## Quick Overview
 
-Role Role Role
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
-![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)
+## Activity Graph
 
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
