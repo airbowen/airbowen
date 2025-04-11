@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Tencent focusing on payment platform.
 - 🌱 my previous job is at Huawei, Contributing in petal search and Huawei wallet.
-- 👯 I’m looking to collaborate on finance banking web3 tech and AI agent 
+- 👯 I’m looking for new opportunities.
 - 💬 you can contact me about airbowen5@gmail.com
 
 If my work helps you, welcome to contact me throgh my email.
